@@ -17,6 +17,7 @@ redirect_from:
   - Graduation: June 2010
 
 - **PhD – September 2013 – June 2019, Xiamen University, Xiamen, China**
+  - Supervisor: Professor Yifeng Zeng
   - Doctor of Science in Systems Engineering
   - Joined Study of Master and Doctoral Degree
   - Graduation: June 2019
