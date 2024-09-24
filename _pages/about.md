@@ -12,14 +12,6 @@ From 2019 to 2020, I had the opportunity to conduct postdoctoral research in the
 In December 2021, I joined the School of Computer Science at Minnan Normal University as a Associate Professor. 
 In 2022, I received multiple recognitions: I was honored as a high-level introduced talent in Zhangzhou City, awarded the Youth May Fourth Medal by Minnan Normal University, and also recognized as a provincial-level introduced talent by Fujian Province.
 
-Identifiers：
-	Web of Science Researcher ID: JAC-2243-2023
-	ORCID: https://orcid.org/0000-0003-1515-6449
-	Scopus Profile: 56735168700
-Website:
-	https://sciprofiles.com/profile/mby
-	http://scholarprofiles.com/0000-1014-9634
-	Biyang Ma | ResearchGate
 
 For more info
 ------
