@@ -1,7 +1,7 @@
 ---
 title: "Ev-IDID: Enhancing solutions to interactive dynamic influence diagrams through evolutionary algorithms"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-05-01-paper-Ev-IDID-number-1
 excerpt: 'This demo introduces an interactive I-DID system that incorporates state-of-the-art and novel evolutionary algorithms, enabling users to specify parameters, visualize solutions, and automate behavioral model generation for multiagent sequential decision-making under uncertainty.'
 date: 2022-05-09
