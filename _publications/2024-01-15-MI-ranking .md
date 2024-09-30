@@ -1,7 +1,7 @@
 ---  
 title: "Multi-population differential evolution approach for feature selection with mutual information ranking"  
 collection: publications  
-category: journals  
+category: manuscripts
 permalink: /publication/2024-01-15-MI-ranking  
 excerpt: 'This paper proposes a novel multi-population differential evolution approach for feature selection with mutual information ranking, which significantly enhances classification performance by reducing feature dimensionality and improving algorithm optimization capabilities.'  
 date: 2024-01-15  
