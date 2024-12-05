@@ -34,7 +34,7 @@ redirect_from:
 
 - **Research Fellow**
   - Northumbria University, Newcastle upon Tyne, UK
-  -2020 -  2021
+  - 2020 - 2021
   - Contributed to EPSRC project
   - Developed and implemented a system enhancing I-DID efficiency
 
