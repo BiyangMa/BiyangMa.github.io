@@ -26,7 +26,7 @@ redirect_from:
 
 - **Postdoctoral Research Fellow**
   - Teesside University, Middlesbrough, UK
-  - April 17, 2019 - June 15, 2020
+  - 2019 - 2020
   - Contributed to EPSRC-funded research project under the supervision of Teesside University faculty
   - Assisted in project coordination, workshop management, and website development
   - Collaborated with Delft University of Technology on project activities
@@ -34,7 +34,7 @@ redirect_from:
 
 - **Research Fellow**
   - Northumbria University, Newcastle upon Tyne, UK
-  - June 15, 2020 - April 14, 2021
+  -2020 -  2021
   - Contributed to EPSRC project
   - Developed and implemented a system enhancing I-DID efficiency
 
